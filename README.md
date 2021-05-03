@@ -2,7 +2,7 @@
 
 Hi there, this is Musiur Alam Opu from Bangladesh.
 I am a full stack web developer.
-I love code in an efficient way and the way of implementing that is DATA STRUCTURE and ALGORITHM...
+I love to code in an efficient way and the way of implementing that is DATA STRUCTURE and ALGORITHM...
 
 Here I did \***_Taking the graph as input_** \***_BFS(Breath First Search) Algorithm_** \***_DFS(Depth First Search) Algorithm_** \***_Finding neighbour_** \***_Testing simple project_**
 
